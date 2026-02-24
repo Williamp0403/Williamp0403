@@ -44,6 +44,3 @@ Soy un apasionado del **béisbol y el fútbol**, donde disfruto tanto del **aná
 - **LinkedIn:** [William Pinto](https://www.linkedin.com/in/william-pinto04-dev)
 - **Portafolio:** [Mi Portafolio Web](https://portafolio-williamdev.netlify.app/)
 - **Email:** [williamp0403@gmail.com](mailto:williamp0403@gmail.com)
-
----
-*"El código limpio es aquel que parece que fue escrito por alguien a quien le importa."*
