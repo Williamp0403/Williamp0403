@@ -13,7 +13,7 @@
 - **State & Data:** **Zustand**, **TanStack Query**, **React Router Dom**.
 
 #### **Ecosistema Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express%205-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express%205-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - **Data Layer:** **Prisma ORM**, **REST APIs**.
 
 #### **Bases de Datos e Infraestructura**
