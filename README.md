@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer
 
-**Full Stack Developer** y estudiante de **8vo semestre de Ingeniería de Sistemas**. Con **3+ años de trayectoria técnica**, combino fundamentos de ingeniería con el ecosistema **JavaScript/TypeScript** para crear aplicaciones escalables que resuelven problemas reales de negocio.
+**Full Stack Developer** y estudiante de **8vo semestre de Ingeniería de Sistemas**. Con **2+ años de trayectoria técnica**, combino fundamentos de ingeniería con el ecosistema **JavaScript/TypeScript** para crear aplicaciones escalables que resuelven problemas reales de negocio.
 
 ---
 
@@ -13,7 +13,8 @@
 - **State & Data:** **Zustand**, **TanStack Query**, **React Router Dom**.
 
 #### **Ecosistema Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express%205-000000?style=flat&logo=express&logoColor=white)
+- **Data Layer:** **Prisma ORM**, **REST APIs**.
 
 #### **Bases de Datos e Infraestructura**
 - **Relacionales:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
