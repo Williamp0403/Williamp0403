@@ -8,7 +8,7 @@ Me especializo en el desarrollo de aplicaciones Full Stack escalables, diseñand
 
 ---
 
-### 🛠️ Tecnologías
+### 🛠️ Stack Tecnológico
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
@@ -37,40 +37,28 @@ Me especializo en el desarrollo de aplicaciones Full Stack escalables, diseñand
 
 ### ⚙️ Enfoque de Desarrollo
 
-#### Principios
+#### 🏗️ Principios
 
-- 🏗️ Arquitectura modular
-- 🧹 Clean Code
-- 🔄 Desarrollo de APIs REST
-- 🤖 Desarrollo asistido por IA con revisión humana
+Aplico **arquitectura modular**, **Clean Code** y el desarrollo de **APIs REST**, utilizando herramientas de **IA como apoyo durante el desarrollo**, siempre con validación y revisión humana.
 
 #### **🛠️ Herramientas de Desarrollo**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 #### **🤖 Desarrollo Asistido por IA**
 
-- OpenCode
-- Antigravity
+OpenCode • Antigravity
 
 ---
 
-### 🌱 Actualmente
+### 📚 Actualmente aprendiendo
 
-- Aprendiendo Laravel 12 y el ecosistema PHP moderno.
-- Profundizando en arquitectura de software y patrones de diseño.
-- Construyendo aplicaciones Full Stack.
-
+Estoy profundizando en **Laravel 12**, el ecosistema **PHP moderno**, **arquitectura de software**, **patrones de diseño** y la construcción de aplicaciones **Full Stack escalables**.
+  
 ---
 
 ### 🌟 Más sobre mí
 
-⚽ Disfruto el fútbol
-
-⚾ Fan del béisbol
-
-🎵 La música forma parte de mi proceso creativo
-
-📚 Aprendiz constante
+Además del desarrollo de software, disfruto el fútbol y el béisbol, encuentro en la música una fuente de inspiración durante mi trabajo y mantengo una mentalidad de aprendizaje continuo para seguir creciendo como desarrollador.
 
 ---
 
