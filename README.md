@@ -1,42 +1,76 @@
 # ¡Hola! Soy William Pinto 👋
 
-### 🚀 Full Stack Developer
+### 🚀 Full Stack Software Developer
 
-**Full Stack Developer** y estudiante de **8vo semestre de Ingeniería de Sistemas**. Con **2+ años de trayectoria técnica**, combino fundamentos de ingeniería con el ecosistema **JavaScript/TypeScript** para crear aplicaciones escalables que resuelven problemas reales de negocio.
+**Full Stack Developer** y estudiante de **8.º semestre de Ingeniería de Sistemas**, enfocado en el desarrollo de aplicaciones web modernas con React, Next.js, Node.js, NestJS, Laravel y TypeScript.
+
+Me especializo en el desarrollo de aplicaciones Full Stack escalables, diseñando arquitecturas backend robustas, desarrollando APIs REST y construyendo interfaces modernas con un enfoque en código limpio, mantenibilidad y experiencia de usuario.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Tecnologías
 
-#### **Ecosistema Frontend**
+#### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-- **State & Data:** **Zustand**, **TanStack Query**, **React Router Dom**.
+- **State, Data & Forms:** **Zustand**, **TanStack Query**, **React Router DOM**, **React Hook Form**.
 
-#### **Ecosistema Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express%205-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express%205-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E0234E?style=flat&logo=laravel&logoColor=white)
 
-#### **Bases de Datos e Infraestructura**
-- **Relacionales:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-- **NoSQL:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- **BaaS:** ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+- **ORM:** ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-#### **Desarrollo Mobile**
+#### **Bases de Datos**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### **Desarrollo Móvil**
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
+#### **Cloud & Deployment**
+![Vercel](https://img.shields.io/badge/-Vercel-181717?style=flat&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 ---
 
-### ⚙️ Metodología y Eficiencia
+### ⚙️ Enfoque de Desarrollo
 
-#### **🤖 IA-Assisted Development**
-Uso **IA** para optimizar **diseño, debugging y documentación**, garantizando calidad mediante **revisión humana rigurosa**.
+#### Principios
 
-#### **🛠️ Workflow & Tools**
+- 🏗️ Arquitectura modular
+- 🧹 Clean Code
+- 🔄 Desarrollo de APIs REST
+- 🤖 Desarrollo asistido por IA con revisión humana
+
+#### **🛠️ Herramientas de Desarrollo**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
+#### **🤖 Desarrollo Asistido por IA**
+
+- OpenCode
+- Antigravity
+
 ---
 
-### ⚡ Detrás del código
-Soy un apasionado del **béisbol y el fútbol**, donde disfruto tanto del **análisis táctico** como de jugar ocasionalmente. Fuera del deporte, la **música** es esencial en mi día a día para mantener la **creatividad**. Me mantengo en **constante aprendizaje** con la meta de crear productos digitales que **impacten positivamente** a las personas.
+### 🌱 Actualmente
+
+- Aprendiendo Laravel 12 y el ecosistema PHP moderno.
+- Profundizando en arquitectura de software y patrones de diseño.
+- Construyendo aplicaciones Full Stack.
+
+---
+
+### 🌟 Más sobre mí
+
+⚽ Disfruto el fútbol
+
+⚾ Fan del béisbol
+
+🎵 La música forma parte de mi proceso creativo
+
+📚 Aprendiz constante
 
 ---
 
